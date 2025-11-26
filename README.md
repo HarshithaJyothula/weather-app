@@ -77,4 +77,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Weather icons and design inspiration from modern UI trends
 - Special thanks to the open-source community
 
-⭐ If you found this project helpful, please give it a star!
